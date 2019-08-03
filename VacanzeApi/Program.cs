@@ -5,6 +5,7 @@ using Microsoft.Extensions.Logging;
 using NLog;
 using NLog.Web;
 using LogLevel = Microsoft.Extensions.Logging.LogLevel;
+using Microsoft.Extensions.Configuration;
 
 namespace vacanze_back.VacanzeApi
 {
